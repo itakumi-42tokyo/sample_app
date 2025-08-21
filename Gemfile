@@ -41,7 +41,7 @@ gem "thruster", require: false
 # gem "image_processing", "~> 1.2"
 gem "bootstrap-sass"
 gem "sassc-rails"
-gem "sprockets-rails"
+# gem "sprockets-rails"
 
 gem "bcrypt"
 
